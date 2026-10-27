@@ -1,0 +1,4 @@
+interface:
+  display_name: "US Stock Analyst"
+  short_description: "Fundamental research and valuation from public sources"
+  default_prompt: "Analyze this US-listed company using current SEC filings and official public sources. Separate long-term fundamentals from any short-term review, show valuation assumptions, and cite dated sources."
